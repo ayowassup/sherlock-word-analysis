@@ -31,3 +31,9 @@ The final output includes a list of the top twenty most frequent words, a WordCl
 1. Clone the repository.
 2. Open the Jupyter notebook (`Word Frequency Distribution in Sherlock Holmes Novel.ipynb`) in your preferred environment.
 3. Run the notebook cells to execute each step of the project.
+
+As GitHub doesn't render the output of Jupyter Notebooks directly, you can use external tools to view and interact with the notebook below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayowassup/sherlock-word-analysis/blob/main/Word_Frequency_Distribution_in_Sherlock_Holmes_Novel.ipynb) [![View on nbviewer](https://img.shields.io/badge/View%20on-nbviewer-brightgreen)](https://nbviewer.jupyter.org/github/ayowassup/sherlock-word-analysis/blob/main/Word_Frequency_Distribution_in_Sherlock_Holmes_Novel.ipynb)
+
+
